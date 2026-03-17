@@ -1,1 +1,2 @@
-# Berta
+# Risks assessment of transactions using machine learning technology.
+Machine learning technology for transaction risk assessment trains models to learn risk characteristics from historical transactions, conducts real-time analysis on new transactions, quickly identifies potential risks such as fraud and default and quantifies their levels to support risk control decisions. It is more accurate and efficient than traditional methods but is also constrained by factors such as data quality and model interpretability.
